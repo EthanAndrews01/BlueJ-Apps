@@ -1,0 +1,7 @@
+labClass1.enrollStudent(student1);
+labClass1.printList();
+Lab class unknown
+Instructor: unknown   Room: unknown
+Class list:
+Ethan, student ID: 101, credits: 120
+Number of students: 1
